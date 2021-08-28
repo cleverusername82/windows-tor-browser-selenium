@@ -1,0 +1,1 @@
+Navigate to Python\Lib\site-packages\tbselenium and replace those files with these three.
