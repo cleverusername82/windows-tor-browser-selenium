@@ -2,7 +2,8 @@
 
 ### pip install -r requirements.txt
 
-You must download the [Tor Browser Bundle](https://www.torproject.org/download/) yourself and place it inside of this folder so it looks like this: ![Image of Folder](https://i.imgur.com/pHmkSw3.png) and inside of that folder should be this: ![Image of Folder](https://i.imgur.com/t0agB9c.png)
+You must download the [Tor Browser Bundle](https://www.torproject.org/download/) yourself and place it inside of this folder so it looks like this: ![Image of Folder](https://i.imgur.com/pHmkSw3.png) 
+and inside of that folder should be this: ![Image of Folder](https://i.imgur.com/t0agB9c.png)
 
 This is currently new and very prone to bugs, please let me know if anything is wrong.
 
